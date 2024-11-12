@@ -1,0 +1,21 @@
+{
+  "name": "@matt-tansley/js-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for JS/TS",
+  "main": "dist/utils.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matt-Tansley/js-utils"
+  },
+  "author": "Matt Tansley",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.4"
+  },
+  "files": [
+    "dist"
+  ]
+}
